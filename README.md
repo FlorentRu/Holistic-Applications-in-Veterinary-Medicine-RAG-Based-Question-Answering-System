@@ -1,5 +1,5 @@
 # Holistic Applications in Veterinary Medicine RAG Based Question Answering System
-### Pet care made easy: empowering owners with Knowledge for their pets' better health and well-being.
+### Facilitating pet care: empowering owners with Knowledge to enhance the health and well-being of their pets
 
 ## Overview
 This project leverages the Retrieval-Augmented Generation (RAG) model from Hugging Face to build a sophisticated question-answering (QA) system specifically tailored for the domain of holistic veterinary medicine. The system is designed to process and extract meaningful answers from an extensive scientific books about Holistic Applications in Veterinary Medicine.
