@@ -1,1 +1,1 @@
-# Holistic-Applications-in-Veterinary-Medicine-RAG-Based-Question-Answering-System
+# Holistic Applications in Veterinary Medicine RAG Based Question Answering System
