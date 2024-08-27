@@ -8,7 +8,7 @@ By combining the power of large-scale language models with a custom FAISS index 
 
 ## Smart Pet Care: Leveraging Holistic Insights for Healthier, Happier Pets
 
-A RAG-based Question Answering System focused on Holistic Applications in Veterinary Medicine could offer several benefits to a regular pet owner:
+A RAG-based Question Answering System focused on holistic applications in veterinary medicine could offer several benefits to a regular pet owner:
 
 ### 1. Immediate Access to Reliable Information
 
